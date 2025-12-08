@@ -34,8 +34,3 @@ I am an aspiring developer focused on **Python** and **C++**. I am currently bas
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxDykun&show_icons=true&theme=dark&hide_border=true&locale=en" alt="MaxDykun's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxDykun&layout=compact&theme=dark&hide_border=true&locale=en" alt="Top Langs" />
-</p>
