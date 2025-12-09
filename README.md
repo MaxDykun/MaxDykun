@@ -28,6 +28,8 @@ I am an aspiring developer focused on **Python** and **C++**. I am currently bas
 ---
 
 ### 📬 Connect With Me
+maximnd44@gmail.com
+
 <a href="mailto:maximnd44@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
